@@ -1,2 +1,2 @@
 # ApplePy
-Python based, grapj=hics oriented restaurant management system.
+Python based, graphics oriented restaurant management system.
